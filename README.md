@@ -16,6 +16,17 @@ This project involves **Exploratory Data Analysis (EDA)** and **Machine Learning
   - `card` (anonymized customer ID)
   - `money` (amount spent)
 
+
+## 📂 Dataset Used
+
+  - <a href = 'https://github.com/SantoshKumar902/Coffee-Sales-Analysis/blob/main/Dataset%20Used/Coffee_Sales.csv'>Dataset</a>
+
+
+## 📝 Google Colab Notebook
+
+  - <a href = 'https://colab.research.google.com/drive/12MZHwFvBghfcqCu9GAUFJF1nZYTEb8m9?usp=sharing'>Analyzed Dataset</a>
+
+
 ---
 
 ## ⚙️ Tools & Technologies Used
