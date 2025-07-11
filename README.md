@@ -65,21 +65,20 @@ This project involves **Exploratory Data Analysis (EDA)** and **Machine Learning
 
 ## 🖼️ Sample Visuals
 
-- <a href =''></a>
+- <a href ='https://github.com/SantoshKumar902/Coffee-Sales-Analysis/blob/main/images/Actual%20vs%20Predicted%20Values.png'>Actual vs Predicted Values</a>
 
-- <a href =''></a>
+- <a href ='https://github.com/SantoshKumar902/Coffee-Sales-Analysis/blob/main/images/Monthly%20Sales%20Over%20Year.png'>Monthly Sales Over Year</a>
 
-- <a href =''></a>
+- <a href ='https://github.com/SantoshKumar902/Coffee-Sales-Analysis/blob/main/images/Monthly%20Sales%20by%20Coffee%20type(With%20Total%20Sales).png'>Monthly Sales by Coffee type(With Total Sales)</a>
 
-- <a href =''></a>
+- <a href ='https://github.com/SantoshKumar902/Coffee-Sales-Analysis/blob/main/images/Sales%20by%20Day%20of%20the%20Week.png'>Sales by Day of the Week</a>
 
-- <a href =''></a>
+- <a href ='https://github.com/SantoshKumar902/Coffee-Sales-Analysis/blob/main/images/Sales%20by%20Hour%20of%20the%20day.png'>Sales by Hour of the day</a>
 
-- <a href =''></a>
+- <a href ='https://github.com/SantoshKumar902/Coffee-Sales-Analysis/blob/main/images/Total%20Revenue%20by%20Coffee%20Name.png'>Total Revenue by Coffee Name</a>
 
-- <a href =''></a>
+- <a href ='https://github.com/SantoshKumar902/Coffee-Sales-Analysis/blob/main/images/Total%20Sales%20by%20Card.png'>Total Sales by Card</a>
 
-- <a href =''></a>
+- <a href ='https://github.com/SantoshKumar902/Coffee-Sales-Analysis/blob/main/images/Total%20Sales%20by%20Coffee%20Product.png'>Total Sales by Coffee Product</a>
 
-- <a href =''></a>
 
